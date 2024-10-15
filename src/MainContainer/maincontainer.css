@@ -1,0 +1,24 @@
+.maincontainer-body{
+
+}
+.main-header{
+  padding: 20px;
+  background: #007AFF;
+  box-shadow: 0px 0px 6px 0px #0000001F;
+}
+.main-header span{
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 28px;
+}
+.checbox-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 36px;
+}
+.form-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 24px;
+}
